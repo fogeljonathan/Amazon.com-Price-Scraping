@@ -2,11 +2,11 @@
 
 This repo is a simple web-scraping system in Python 3. The goal is to acquire the price of a given item on Amazon. This version, specifically, prints the price of corsair RAM.
 
-Packages included are:
+Packages used are:
 1. selenium
 2. datetime
 
-The files included are:
+Files included:
 1. An executable chromedriver application. This is needed for selenium to navigate the most recent iteration of google chrome.
 2. The actual Code.
 
